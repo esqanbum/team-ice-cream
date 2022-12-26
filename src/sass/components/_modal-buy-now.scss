@@ -31,8 +31,8 @@
     }
 }
 
-.backdrop.js-overlay-modal .modal {
-    transform: translate(-50%, -50%) scale(1.3);
+.overlay.js-overlay-modal .modal {
+    transform: translate(-50%, -50%) scale(0) ;
 }
 
 
